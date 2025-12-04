@@ -1,0 +1,11 @@
+/Users/zub/Desktop/jenkins-app/src/test/java/com/test/app/AppApplicationTests.java
+/Users/zub/Desktop/jenkins-app/src/test/java/com/test/app/config/Configuration.java
+/Users/zub/Desktop/jenkins-app/src/test/java/com/test/app/config/TestConfig.java
+/Users/zub/Desktop/jenkins-app/src/test/java/com/test/app/config/TestMockConfig.java
+/Users/zub/Desktop/jenkins-app/src/test/java/com/test/app/controller/Integration.java
+/Users/zub/Desktop/jenkins-app/src/test/java/com/test/app/controller/IntegrationTest.java
+/Users/zub/Desktop/jenkins-app/src/test/java/com/test/app/controller/TodoControllerIntegrationTest.java
+/Users/zub/Desktop/jenkins-app/src/test/java/com/test/app/service/Birim.java
+/Users/zub/Desktop/jenkins-app/src/test/java/com/test/app/service/BirimTestler.java
+/Users/zub/Desktop/jenkins-app/src/test/java/com/test/app/service/Testtt.java
+/Users/zub/Desktop/jenkins-app/src/test/java/com/test/app/service/TodoServiceTestt.java

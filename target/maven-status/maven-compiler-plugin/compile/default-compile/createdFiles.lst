@@ -1,0 +1,5 @@
+com/test/app/model/Todo.class
+com/test/app/AppApplication.class
+com/test/app/controller/TodoController.class
+com/test/app/repository/TodoRepository.class
+com/test/app/service/TodoService.class
